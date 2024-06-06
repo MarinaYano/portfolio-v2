@@ -22,7 +22,7 @@ const Hero = () => {
 
           <TextGenerateEffect
             className="text-center text-4xl md:text-5xl lg:text-6xl"
-            words="Hi, I'm a software developer based in Vancouver"
+            words="Hi, I'm a Software Developer based in Vancouver"
           />
           <h2 className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80 my-4">
             Marina Yano

@@ -6,12 +6,10 @@ const Contact = () => {
     <div id="contact" className="w-full pt-20 pb-10">
       <div className="flex flex-col items-center">
         <h1 className="heading lg:max-w-[75vw]">
-          Ready to take <span className="text-purple">your</span> digital
-          presence to the next level?
+          Share your goals with me, and let's make them a <span className="text-purple">reality</span>.
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-          Reach out to me today and let&apos;s discuss how I can help you
-          achieve your goals.
+          Interested in working with me? Let's talk!
         </p>
         <a href="mailto:myano2621@gmail.com">
           <MagicButton
