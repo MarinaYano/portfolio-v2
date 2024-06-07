@@ -12,11 +12,11 @@ export const about = [
     header: '',
     className: "md:col-span-2",
   },
-  {
-    title: '',
-    description: '',
-    className: "md:col-span-1",
-  },
+  // {
+  //   title: '',
+  //   description: '',
+  //   className: "md:col-span-1",
+  // },
   {
     title: 'Languages / Frameworks & Tools',
     description: '',
@@ -24,11 +24,11 @@ export const about = [
     icon: ['/mono-svg/js.svg', '/mono-svg/ts.svg', '/mono-svg/react.svg', '/svg/next.svg', '/mono-svg/sass.svg', '/mono-svg/tailwind.svg', '/mono-svg/bootstrap.svg', '/mono-svg/shadcnui.svg', '/mono-svg/socketio.svg', '/mono-svg/redux.svg', '/mono-svg/node.svg', '/svg/express.svg', '/mono-svg/mongodb.svg', '/mono-svg/mongoose.svg', '/mono-svg/prisma.svg', '/mono-svg/git.svg', '/mono-svg/ghactions.svg', '/mono-svg/wp.svg', '/mono-svg/figma.svg'],
     className: "md:col-span-1",
   },
-  {
-    title: 'Education',
-    description: 'September, 2023 - PRESENT Cornerstone International Community College of Canada - Diploma in Web and Mobile App Development',
-    className: "md:col-span-2",
-  }
+  // {
+  //   title: 'Education',
+  //   description: 'September, 2023 - PRESENT Cornerstone International Community College of Canada - Diploma in Web and Mobile App Development',
+  //   className: "md:col-span-2",
+  // }
 ]
 
 export const projects = [
@@ -38,7 +38,7 @@ export const projects = [
     des: "Facebook Marketplace-like Website. A full-stack web app that allows users to post items for sale and chat in real time with other users.",
     img: "/canmeet.png",
     iconLists: ["/svg//react.svg", "/svg//ts.svg", "/svg//tailwind.svg", "/svg//shadcnui.svg", "/svg/redux.svg", "/svg/socketdotio.svg", "/svg/node.svg", "/svg/express.svg", "/svg/mongodb.svg"],
-    demoLink: "https://canmeet.netlify.app/",
+    demoLink: "https://canmeet.app/",
     ghLink: "https://github.com/Cornerstone-Canmeet/canmeet-app",
   },
   {
