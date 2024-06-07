@@ -4,7 +4,7 @@ import Image from "next/image"
 
 const About = () => {
   return (
-    <div>
+    <div className="pt-80 sm:pt-68 md:pt-40">
       <BentoGrid className="">
         {about.map((item, index) => (
           <BentoGridItem
